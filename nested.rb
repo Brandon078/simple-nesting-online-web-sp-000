@@ -121,6 +121,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-		 alan_key= programmer_hash[:alan_kay]
+		 alan_key= programmer_hash[:alan_kay][:known_for]
 	  alan_key[0]
 end
